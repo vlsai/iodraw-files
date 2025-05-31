@@ -4,9 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTL_PtPm4C_BFePx3Gcm3XVm0Y-xK1M62K-ZMY-Npsm02f6hmhPOpSRTKSDA3ZzHDwP3NAHKmCUuz42z_7JLqIbFNeraYmgzJa48wV7WBupvA" link="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTL_PtPm4C_BFePx3Gcm3XVm0Y-xK1M62K-ZMY-Npsm02f6hmhPOpSRTKSDA3ZzHDwP3NAHKmCUuz42z_7JLqIbFNeraYmgzJa48wV7WBupvA" id="wmhYHs5ULzznYmOQdS1y-2">
+        <UserObject label="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTL_PtPm4C_BFePx3Gcm3XVm0Y-xK1M62K-ZMY-Npsm02f6hmhPOpSRTKSDA3ZzHDwP3NAHKmCUuz42z_7JLqIbFNeraYmgzJa48wV7WBupvA" link="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTL_PtPm4C_BFePx3Gcm3XVm0Y-xK1M62K-ZMY-Npsm02f6hmhPOpSRTKSDA3ZzHDwP3NAHKmCUuz42z_7JLqIbFNeraYmgzJa48wV7WBupvA" id="wmhYHs5ULzznYmOQdS1y-4">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="310" y="390" width="560" height="70" as="geometry" />
+            <mxGeometry x="260" y="380" width="560" height="70" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
