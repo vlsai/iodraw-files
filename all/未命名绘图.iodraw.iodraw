@@ -94,7 +94,7 @@
         <mxCell id="qvW7iiDQU5udiequJK9p-31" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;自适应协同融合&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="284" y="585" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qvW7iiDQU5udiequJK9p-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qvW7iiDQU5udiequJK9p-34" value="视图质量评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="284" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
