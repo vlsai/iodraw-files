@@ -70,6 +70,9 @@
         <mxCell id="qvW7iiDQU5udiequJK9p-12" value="结构精炼" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="95" y="240" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qvW7iiDQU5udiequJK9p-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qvW7iiDQU5udiequJK9p-23" target="qvW7iiDQU5udiequJK9p-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qvW7iiDQU5udiequJK9p-23" value="视图特定编码器" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="460" width="120" height="60" as="geometry" />
         </mxCell>
