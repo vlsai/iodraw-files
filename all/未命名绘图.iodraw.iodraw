@@ -133,7 +133,7 @@
           <mxGeometry x="199" y="790" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qvW7iiDQU5udiequJK9p-49" value="Loss Function" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="14" y="650" width="176" height="70" as="geometry" />
+          <mxGeometry x="254.5" y="880" width="176" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
