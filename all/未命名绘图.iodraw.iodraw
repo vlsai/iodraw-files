@@ -88,7 +88,12 @@
           <mxGeometry x="294" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qvW7iiDQU5udiequJK9p-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qvW7iiDQU5udiequJK9p-27" target="qvW7iiDQU5udiequJK9p-29">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="530" />
+              <mxPoint x="354" y="530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qvW7iiDQU5udiequJK9p-27" value="视图特定编码器" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="460" width="120" height="60" as="geometry" />
@@ -101,6 +106,12 @@
         </mxCell>
         <mxCell id="qvW7iiDQU5udiequJK9p-34" value="视图质量评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="294" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qvW7iiDQU5udiequJK9p-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="590" as="sourcePoint" />
+            <mxPoint x="460" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
