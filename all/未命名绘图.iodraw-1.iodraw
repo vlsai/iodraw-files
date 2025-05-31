@@ -7,10 +7,16 @@
         <mxCell id="wmhYHs5ULzznYmOQdS1y-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.pixabay.com/photo/2023/06/29/12/28/cats-8096304_1280.jpg;clipPath=inset(1.47% 14.33% 0.49% 13.33%);" vertex="1" parent="1">
           <mxGeometry x="-1580" y="120" width="530" height="488.4792626728111" as="geometry" />
         </mxCell>
-        <mxCell id="wmhYHs5ULzznYmOQdS1y-12" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=10;exitX=0;exitY=0.339;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wmhYHs5ULzznYmOQdS1y-6">
+        <mxCell id="wmhYHs5ULzznYmOQdS1y-12" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=10;exitX=0;exitY=0.339;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.99;entryY=0.342;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wmhYHs5ULzznYmOQdS1y-6" target="wmhYHs5ULzznYmOQdS1y-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1430" y="790" as="sourcePoint" />
             <mxPoint x="-1380" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wmhYHs5ULzznYmOQdS1y-13" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=10;exitX=0.004;exitY=0.704;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.99;entryY=0.342;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wmhYHs5ULzznYmOQdS1y-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1570" y="296" as="sourcePoint" />
+            <mxPoint x="-1045" y="297" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
