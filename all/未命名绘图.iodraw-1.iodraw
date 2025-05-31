@@ -37,8 +37,8 @@
             <mxPoint x="-900" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wmhYHs5ULzznYmOQdS1y-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="-827" y="340" width="50" height="100" as="geometry" />
+        <mxCell id="wmhYHs5ULzznYmOQdS1y-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="380" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
