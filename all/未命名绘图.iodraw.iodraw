@@ -10,8 +10,14 @@
         <mxCell id="qvW7iiDQU5udiequJK9p-1" value="&lt;span style=&quot;font-size: 17px; line-height: 150%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;ACORN-VGF&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="70" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qvW7iiDQU5udiequJK9p-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qvW7iiDQU5udiequJK9p-2" target="qvW7iiDQU5udiequJK9p-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qvW7iiDQU5udiequJK9p-2" value="&lt;p style=&quot;margin-left:0cm;text-indent:0cm;mso-list:l0 level3 lfo1&quot; class=&quot;3&quot;&gt;&lt;a name=&quot;_Toc198572051&quot;&gt;&lt;span style=&quot;font-family:黑体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;动态自适应视图生成器&lt;/font&gt;&lt;/span&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="254.5" y="150" width="199" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qvW7iiDQU5udiequJK9p-4" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
