@@ -107,7 +107,7 @@
         <mxCell id="qvW7iiDQU5udiequJK9p-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qvW7iiDQU5udiequJK9p-34" target="qvW7iiDQU5udiequJK9p-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qvW7iiDQU5udiequJK9p-34" value="视图质量评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="qvW7iiDQU5udiequJK9p-34" value="视图质量评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="220" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qvW7iiDQU5udiequJK9p-42" value="反馈信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
