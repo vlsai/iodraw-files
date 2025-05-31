@@ -10,7 +10,7 @@
         <mxCell id="qvW7iiDQU5udiequJK9p-1" value="&lt;span style=&quot;font-size: 17px; line-height: 150%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;ACORN-VGF&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="294" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qvW7iiDQU5udiequJK9p-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qvW7iiDQU5udiequJK9p-12" target="qvW7iiDQU5udiequJK9p-4">
+        <mxCell id="qvW7iiDQU5udiequJK9p-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qvW7iiDQU5udiequJK9p-2" target="qvW7iiDQU5udiequJK9p-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qvW7iiDQU5udiequJK9p-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qvW7iiDQU5udiequJK9p-2" target="qvW7iiDQU5udiequJK9p-6">
@@ -37,17 +37,11 @@
         <mxCell id="qvW7iiDQU5udiequJK9p-8" value="&lt;span style=&quot;font-size: 12pt; line-height: 150%; font-family: 宋体;&quot;&gt;任务驱动视图&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="510" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qvW7iiDQU5udiequJK9p-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qvW7iiDQU5udiequJK9p-2" target="qvW7iiDQU5udiequJK9p-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="255" y="180" as="sourcePoint" />
-            <mxPoint x="130" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qvW7iiDQU5udiequJK9p-12" value="结构精炼" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="95" y="240" width="70" height="30" as="geometry" />
+          <mxGeometry x="120" y="240" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qvW7iiDQU5udiequJK9p-14" value="语义投影和结构构建" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="558" width="130" height="30" as="geometry" />
+        <mxCell id="qvW7iiDQU5udiequJK9p-16" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;语义投影和结构构建&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="500" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
