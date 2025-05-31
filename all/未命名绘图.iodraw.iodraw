@@ -46,8 +46,8 @@
         <mxCell id="qvW7iiDQU5udiequJK9p-12" value="结构精炼" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="95" y="240" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qvW7iiDQU5udiequJK9p-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="285" y="558" width="50" height="30" as="geometry" />
+        <mxCell id="qvW7iiDQU5udiequJK9p-14" value="语义投影和结构构建" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="558" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
