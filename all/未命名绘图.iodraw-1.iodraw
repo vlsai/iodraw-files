@@ -348,8 +348,11 @@
             <mxPoint x="508" y="1022" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u7p0gZeQKFvgx-LtoIDF-203" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u7p0gZeQKFvgx-LtoIDF-203" value="分类器" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="850" width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="u7p0gZeQKFvgx-LtoIDF-204" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="898" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
