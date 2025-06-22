@@ -171,8 +171,8 @@
         <mxCell id="u7p0gZeQKFvgx-LtoIDF-109" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="340" y="630" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="u7p0gZeQKFvgx-LtoIDF-110" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
-          <mxGeometry x="340" y="630" width="150" height="90" as="geometry" />
+        <mxCell id="u7p0gZeQKFvgx-LtoIDF-110" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="530" y="680" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
