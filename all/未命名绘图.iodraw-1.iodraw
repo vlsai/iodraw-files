@@ -46,7 +46,7 @@
         <mxCell id="u7p0gZeQKFvgx-LtoIDF-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;异质图G&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-275" y="780" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u7p0gZeQKFvgx-LtoIDF-16" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="u7p0gZeQKFvgx-LtoIDF-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="770" width="420" height="330" as="geometry" />
         </mxCell>
         <mxCell id="u7p0gZeQKFvgx-LtoIDF-21" value="元路径筛选" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
