@@ -349,7 +349,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u7p0gZeQKFvgx-LtoIDF-203" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="882" width="120" height="80" as="geometry" />
+          <mxGeometry x="740" y="850" width="270" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
