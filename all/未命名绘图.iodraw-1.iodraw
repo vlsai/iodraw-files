@@ -37,16 +37,17 @@
         <mxCell id="u7p0gZeQKFvgx-LtoIDF-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-120" y="990" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="u7p0gZeQKFvgx-LtoIDF-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u7p0gZeQKFvgx-LtoIDF-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="935" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="u7p0gZeQKFvgx-LtoIDF-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u7p0gZeQKFvgx-LtoIDF-12" target="u7p0gZeQKFvgx-LtoIDF-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u7p0gZeQKFvgx-LtoIDF-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="770" width="420" height="330" as="geometry" />
         </mxCell>
         <mxCell id="u7p0gZeQKFvgx-LtoIDF-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;异质图G&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-275" y="790" width="90" height="40" as="geometry" />
+          <mxGeometry x="-275" y="780" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u7p0gZeQKFvgx-LtoIDF-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="770" width="420" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
